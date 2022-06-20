@@ -1,0 +1,28 @@
+.white{
+    background-color: white;
+}
+.border
+{
+    border:2px solid red;
+}
+.photo1
+{
+    height:14rem;
+    width:22rem;
+    z-index:-1;
+ 
+}
+.pm
+{
+    padding:0px 0px 0px 0px;
+    margin:10px 0px 0px 0px;
+}
+.position{
+    /* margin-top:-1rem; */
+    z-index:-2;
+    background-color: white;
+    font:14px Okra,Helvetica,sans-serif;
+    font-weight:500;
+    color: rgb(54, 54, 54);
+
+}
