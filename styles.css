@@ -24,5 +24,34 @@
     font:14px Okra,Helvetica,sans-serif;
     font-weight:500;
     color: rgb(54, 54, 54);
-
+}
+.head{
+    font-weight:500;
+    font-size:3.6rem;
+    line-height:1.2rem;
+    color:rgb(28,28,28);
+    font:36px Okra,Helvetica,sans-serif;   
+}
+.top
+{
+    margin-top:3rem;
+}
+.heading6{
+    display:inline;
+    font-weight:300;
+    line-height:1.4;
+    color:rgb(54,54,54);
+    font-size:1.2rem;
+    
+}
+.link{
+    display:inline-flex;
+    font-style:none;
+    text-align:right;
+    color:rgb(255, 126, 139);
+    text-decoration:none;
+    margin-left:7rem;
+}
+.link:hover{
+    color:rgb(255, 126, 139);
 }
