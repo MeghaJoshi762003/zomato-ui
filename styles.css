@@ -3,7 +3,7 @@
 }
 .border
 {
-    border:2px solid red;
+    border: 1px solid rgb(232, 232, 232);
 }
 .photo1
 {
@@ -17,13 +17,20 @@
     padding:0px 0px 0px 0px;
     margin:10px 0px 0px 0px;
 }
-.position{
+.position h6{
     /* margin-top:-1rem; */
     z-index:-2;
     background-color: white;
-    font:14px Okra,Helvetica,sans-serif;
+    font:Okra,Helvetica,sans-serif;
     font-weight:500;
     color: rgb(54, 54, 54);
+    font-size:1.6rem;
+}
+.position p{
+    font-size:1.2rem;
+    line-height:1.2;
+    color: rgb(79, 79, 79);
+    font-weight:300;
 }
 .head{
     font-weight:500;
