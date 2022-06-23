@@ -131,3 +131,50 @@ h6{
     margin-top:1.7rem;
     padding:auto;
 }
+.pm:hover{
+   margin-top:5px;
+}
+.app{
+    background-color: rgb(255, 251, 247);
+    width:100%;
+    justify-content:center;
+    margin-top:4rem;
+    height:27rem;
+}
+.img{
+    display:inline-block;
+    height: 18rem;
+    width:17rem;
+    margin-top:3rem;
+}
+.m{
+    width:29rem;
+}
+.m h2{
+    margin-top:3rem;
+    font-size:2.5rem;
+    font-weight:400;
+}
+.m p{
+    margin-top:1rem;
+}
+.email{
+    display:inline-block;
+    width:5rem;
+}
+.block{
+    display:inline-block;
+    margin-top:1rem;
+}
+.btn{
+    margin-left:1rem;
+}
+.ema{
+    height:2.3rem;
+}
+.download{
+    line-height: 1.5;
+    margin: 0px 0px 1.5rem;
+    color: rgb(156, 156, 156);
+    font-size: 1rem;
+}
